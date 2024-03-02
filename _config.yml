@@ -34,11 +34,11 @@ linkedin:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Steve Loo Han Xin
+  name: X1nQing # Copyrights Name
   email: loohanxin3@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://x1nqing.github.io
+    - https://x1nqing.github.io 
     - https://github.com/X1nQing # change to your github homepage
     - https://www.linkedin.com/in/steveloohanxin
     # Uncomment below to add more social links
